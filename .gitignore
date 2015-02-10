@@ -8,6 +8,18 @@ Desktop.ini
 # Recycle Bin used on file shares
 $RECYCLE.BIN/
 
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+build/
+bld/
+[Bb]in/
+[Oo]bj/
+
 # Windows Installer files
 *.cab
 *.msi
